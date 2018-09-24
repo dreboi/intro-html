@@ -1,3 +1,5 @@
+<html>
+<body>
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
 
 body {
@@ -115,4 +117,5 @@ a {
               transform: translate3d(-75%, 0%, 0);
     }
   }
-  
+  </body>
+</html>
